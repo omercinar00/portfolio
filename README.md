@@ -2,6 +2,6 @@
 # 💫
 </br>
 
-My portfolio: https://code-star.netlify.app/
+My portfolio: https://omercinar00.github.io/portfolio/
 </br>
 
